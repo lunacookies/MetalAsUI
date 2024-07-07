@@ -1,0 +1,15 @@
+AlignAfterOpenBracket: DontAlign
+AlignTrailingComments: false
+AllowShortBlocksOnASingleLine: false
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+AlwaysBreakAfterDefinitionReturnType: All
+BinPackParameters: false
+BreakBeforeBraces: Allman
+ColumnLimit: 100
+ContinuationIndentWidth: 8
+IndentCaseLabels: true
+IndentWidth: 8
+UseTab: ForIndentation
